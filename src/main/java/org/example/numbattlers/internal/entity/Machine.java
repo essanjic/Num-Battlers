@@ -5,7 +5,7 @@ package org.example.numbattlers.internal.entity;
  * Because extends the Player class, it has the same attributes and methods of the Player class.
  * Is possible create a new Methods in this class.
  */
-public class Machine extends Player{
+public class Machine extends Player {
     private String difficulty;
 
     /**
@@ -20,9 +20,13 @@ public class Machine extends Player{
         super(name, score, time);
     }
 
-    public String responseGenerate(){
-        // TODO: Implement necessary GameService for generate a response
-        return "implement me!";
+    public String getDifficulty() {
+        return difficulty;
     }
+
+    public void setDifficulty(String difficulty) {
+        this.difficulty = difficulty;
+    }
+
 
 }
