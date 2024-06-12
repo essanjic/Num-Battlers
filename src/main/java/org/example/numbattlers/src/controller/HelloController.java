@@ -1,4 +1,4 @@
-package org.example.numbattlers;
+package org.example.numbattlers.src.controller;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
