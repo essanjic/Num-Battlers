@@ -1,4 +1,4 @@
-package org.example.numbattlers;
+package org.example.numbattlers.internal.entity;
 
 /**
  * This class is used by a Game and extends the Player class.
@@ -21,7 +21,7 @@ public class Machine extends Player{
     }
 
     public String responseGenerate(){
-        // TODO: Implement necessary logic for generate a response
+        // TODO: Implement necessary GameService for generate a response
         return "implement me!";
     }
 

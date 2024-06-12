@@ -1,4 +1,4 @@
-package org.example.numbattlers;
+package org.example.numbattlers.internal.entity;
 
 /** This class is used by Game to store the player's name, score, and time.
  * Implements some attributes of the player.

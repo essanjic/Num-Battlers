@@ -1,4 +1,4 @@
-package org.example.numbattlers;
+package org.example.numbattlers.internal.entity;
 
 import java.util.List;
 

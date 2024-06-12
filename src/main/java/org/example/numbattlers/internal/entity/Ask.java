@@ -1,4 +1,4 @@
-package org.example.numbattlers;
+package org.example.numbattlers.internal.entity;
 
 /** This class is used by Game to ask the player for a response to a question.
  * Implements some attributes of the question.

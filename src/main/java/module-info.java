@@ -13,4 +13,8 @@ module org.example.numbattlers {
 
     opens org.example.numbattlers to javafx.fxml;
     exports org.example.numbattlers;
+    exports org.example.numbattlers.internal.entity;
+    opens org.example.numbattlers.internal.entity to javafx.fxml;
+    exports org.example.numbattlers.src.controller;
+    opens org.example.numbattlers.src.controller to javafx.fxml;
 }
