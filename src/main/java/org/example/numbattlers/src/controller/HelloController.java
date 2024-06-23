@@ -11,4 +11,6 @@ public class HelloController {
     protected void onHelloButtonClick() {
         welcomeText.setText("Welcome to JavaFX Application!");
     }
+
+    // TODO: añadir vista de menu, juego y resultados
 }
