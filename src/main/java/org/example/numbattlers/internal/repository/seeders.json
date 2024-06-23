@@ -1,0 +1,597 @@
+[
+  {
+    "key": 1,
+    "level": "fácil",
+    "declare": "¿Cuánto es 2 + 2 * 5?",
+    "response": 12,
+    "maxTime": 10
+  },
+  {
+    "key": 2,
+    "level": "fácil",
+    "declare": "¿Cuánto es 3 * 3 + 2?",
+    "response": 11,
+    "maxTime": 10
+  },
+  {
+    "key": 3,
+    "level": "fácil",
+    "declare": "¿Cuánto es 5 + 5 * 2?",
+    "response": 15,
+    "maxTime": 10
+  },
+  {
+    "key": 4,
+    "level": "fácil",
+    "declare": "¿Cuánto es 2 * 2 + 5?",
+    "response": 9,
+    "maxTime": 10
+  },
+  {
+    "key": 5,
+    "level": "fácil",
+    "declare": "¿Cuánto es 5 * 2 + 2?",
+    "response": 12,
+    "maxTime": 10
+  },
+  {
+    "key": 6,
+    "level": "fácil",
+    "declare": "¿Cuánto es 2 + 5 * 2?",
+    "response": 12,
+    "maxTime": 10
+  },
+  {
+    "key": 7,
+    "level": "fácil",
+    "declare": "¿Cuánto es 2 * 5 + 2?",
+    "response": 12,
+    "maxTime": 10
+  },
+  {
+    "key": 8,
+    "level": "fácil",
+    "declare": "¿Cuánto es 5 + 2 * 2?",
+    "response": 9,
+    "maxTime": 10
+  },
+  {
+    "key": 9,
+    "level": "fácil",
+    "declare": "¿Cuánto es 5 * 2 + 5?",
+    "response": 15,
+    "maxTime": 10
+  },
+  {
+    "key": 10,
+    "level": "fácil",
+    "declare": "¿Cuánto es 5 + 5 * 5?",
+    "response": 30,
+    "maxTime": 10
+  },
+  {
+    "key": 11,
+    "level": "fácil",
+    "declare": "¿Cuánto es 5 * 5 + 5?",
+    "response": 30,
+    "maxTime": 10
+  },
+  {
+    "key": 12,
+    "level": "fácil",
+    "declare": "¿Cuánto es 5 + 5 * 5?",
+    "response": 30,
+    "maxTime": 10
+  },
+  {
+    "key": 13,
+    "level": "fácil",
+    "declare": "¿Cuánto es 5 * 5 + 5?",
+    "response": 30,
+    "maxTime": 10
+  },
+  {
+    "key": 14,
+    "level": "fácil",
+    "declare": "¿Cuánto es 5 + 5 * 5?",
+    "response": 30,
+    "maxTime": 10
+  },
+  {
+    "key": 15,
+    "level": "fácil",
+    "declare": "¿Cuánto es 5 * 5 + 5?",
+    "response": 30,
+    "maxTime": 10
+  },
+  {
+    "key": 16,
+    "level": "fácil",
+    "declare": "¿Cuánto es 5 + 5 * 5?",
+    "response": 30,
+    "maxTime": 10
+  },
+  {
+    "key": 17,
+    "level": "fácil",
+    "declare": "¿Cuánto es 5 * 5 + 5?",
+    "response": 30,
+    "maxTime": 10
+  },
+  {
+    "key": 18,
+    "level": "fácil",
+    "declare": "¿Cuánto es 5 + 5 * 5?",
+    "response": 30,
+    "maxTime": 10
+  },
+  {
+    "key": 19,
+    "level": "fácil",
+    "declare": "¿Cuánto es 5 * 5 + 5?",
+    "response": 30,
+    "maxTime": 10
+  },
+  {
+    "key": 20,
+    "level": "fácil",
+    "declare": "¿Cuánto es 5 + 5 * 5?",
+    "response": 30,
+    "maxTime": 10
+  },
+  {
+    "key": 21,
+    "level": "fácil",
+    "declare": "¿Cuánto es 5 * 5 + 5?",
+    "response": 30,
+    "maxTime": 10
+  },
+  {
+    "key": 22,
+    "level": "fácil",
+    "declare": "¿Cuánto es 5 + 5 * 5?",
+    "response": 30,
+    "maxTime": 10
+  },
+  {
+    "key": 23,
+    "level": "fácil",
+    "declare": "¿Cuánto es 5 * 5 + 5?",
+    "response": 30,
+    "maxTime": 10
+  },
+  {
+    "key": 24,
+    "level": "fácil",
+    "declare": "¿Cuánto es 5 + 5 * 5?",
+    "response": 30,
+    "maxTime": 10
+  },
+  {
+    "key": 25,
+    "level": "fácil",
+    "declare": "¿Cuánto es 5 * 5 + 5?",
+    "response": 30,
+    "maxTime": 10
+  },
+  {
+    "key": 26,
+    "level": "fácil",
+    "declare": "¿Cuánto es 5 + 5 * 5?",
+    "response": 30,
+    "maxTime": 10
+  },
+  {
+    "key": 27,
+    "level": "fácil",
+    "declare": "¿Cuánto es 5 * 5 + 5?",
+    "response": 30,
+    "maxTime": 10
+  },
+  {
+    "key": 28,
+    "level": "fácil",
+    "declare": "¿Cuánto es 5 + 5 * 5?",
+    "response": 30,
+    "maxTime": 10
+  },
+  {
+    "key": 29,
+    "level": "fácil",
+    "declare": "¿Cuánto es 5 * 5 + 5?",
+    "response": 30,
+    "maxTime": 10
+  },
+  {
+    "key": 30,
+    "level": "fácil",
+    "declare": "¿Cuánto es 5 + 5 * 5?",
+    "response": 30,
+    "maxTime": 10
+  },
+  {
+    "key": 31,
+    "level": "fácil",
+    "declare": "¿Cuánto es 5 * 5 + 5 * 5?",
+    "response": 50,
+    "maxTime": 10
+  },
+  {
+    "key": 32,
+    "level": "fácil",
+    "declare": "¿Cuánto es 5 + 5 * 5 + 5?",
+    "response": 35,
+    "maxTime": 10
+  },
+  {
+    "key": 33,
+    "level": "fácil",
+    "declare": "¿Cuánto es 5 * 5 + 5 * 5?",
+    "response": 50,
+    "maxTime": 10
+  },
+  {
+    "key": 34,
+    "level": "fácil",
+    "declare": "¿Cuánto es 5 + 5 * 5 + 5?",
+    "response": 35,
+    "maxTime": 10
+  },
+  {
+    "key": 35,
+    "level": "fácil",
+    "declare": "¿Cuánto es 5 * 5 + 5 * 5?",
+    "response": 50,
+    "maxTime": 10
+  },
+  {
+    "key": 36,
+    "level": "fácil",
+    "declare": "¿Cuánto es 5 + 5 * 5 + 5?",
+    "response": 35,
+    "maxTime": 10
+  },
+  {
+    "key": 37,
+    "level": "fácil",
+    "declare": "¿Cuánto es 5 * 5 + 5 * 5?",
+    "response": 50,
+    "maxTime": 10
+  },
+  {
+    "key": 38,
+    "level": "fácil",
+    "declare": "¿Cuánto es 5 + 5 * 5 + 5?",
+    "response": 35,
+    "maxTime": 10
+  },
+  {
+    "key": 39,
+    "level": "fácil",
+    "declare": "¿Cuánto es 5 * 5 + 5 * 5?",
+    "response": 50,
+    "maxTime": 10
+  },
+  {
+    "key": 40,
+    "level": "fácil",
+    "declare": "¿Cuánto es 5 + 5 * 5 + 5?",
+    "response": 35,
+    "maxTime": 10
+  },
+  {
+    "key": 41,
+    "level": "dificil",
+    "declare": "¿Cuánto es 5 * 5 + 5 * 5 + 5?",
+    "response": 55,
+    "maxTime": 10
+  },
+  {
+    "key": 42,
+    "level": "dificil",
+    "declare": "¿Cuánto es 5 + 5 * 5 + 5 * 5?",
+    "response": 40,
+    "maxTime": 10
+  },
+  {
+    "key": 43,
+    "level": "dificil",
+    "declare": "¿Cuánto es 5 * 5 + 5 * 5 + 5?",
+    "response": 55,
+    "maxTime": 10
+  },
+  {
+    "key": 44,
+    "level": "dificil",
+    "declare": "¿Cuánto es 5 + 5 * 5 + 5 * 5?",
+    "response": 40,
+    "maxTime": 10
+  },
+  {
+    "key": 45,
+    "level": "dificil",
+    "declare": "¿Cuánto es 5 * 5 + 5 * 5 + 5?",
+    "response": 55,
+    "maxTime": 10
+  },
+  {
+    "key": 46,
+    "level": "dificil",
+    "declare": "¿Cuánto es 5 + 5 * 5 + 5 * 5?",
+    "response": 40,
+    "maxTime": 10
+  },
+  {
+    "key": 47,
+    "level": "dificil",
+    "declare": "¿Cuánto es 5 * 5 + 5 * 5 + 5?",
+    "response": 55,
+    "maxTime": 10
+  },
+  {
+    "key": 48,
+    "level": "dificil",
+    "declare": "¿Cuánto es 5 + 5 * 5 + 5 * 5?",
+    "response": 40,
+    "maxTime": 10
+  },
+  {
+    "key": 49,
+    "level": "dificil",
+    "declare": "¿Cuánto es 5 * 5 + 5 * 5 + 5?",
+    "response": 55,
+    "maxTime": 10
+  },
+  {
+    "key": 50,
+    "level": "dificil",
+    "declare": "¿Cuánto es 5 + 5 * 5 + 5 * 5?",
+    "response": 40,
+    "maxTime": 10
+  },
+  {
+    "key": 51,
+    "level": "dificil",
+    "declare": "¿Cuánto es 5 * 5 + 5 * 5 + 5 * 5?",
+    "response": 70,
+    "maxTime": 10
+  },
+  {
+    "key": 52,
+    "level": "dificil",
+    "declare": "¿Cuánto es 5 + 5 * 5 + 5 * 5 + 5?",
+    "response": 45,
+    "maxTime": 10
+  },
+  {
+    "key": 53,
+    "level": "dificil",
+    "declare": "¿Cuánto es 5 * 5 + 5 * 5 + 5 * 5?",
+    "response": 70,
+    "maxTime": 10
+  },
+  {
+    "key": 54,
+    "level": "dificil",
+    "declare": "¿Cuánto es 5 + 5 * 5 + 5 * 5 + 5?",
+    "response": 45,
+    "maxTime": 10
+  },
+  {
+    "key": 55,
+    "level": "dificil",
+    "declare": "¿Cuánto es 5 * 5 + 5 * 5 + 5 * 5?",
+    "response": 70,
+    "maxTime": 10
+  },
+  {
+    "key": 56,
+    "level": "dificil",
+    "declare": "¿Cuánto es 5 + 5 * 5 + 5 * 5 + 5?",
+    "response": 45,
+    "maxTime": 10
+  },
+  {
+    "key": 57,
+    "level": "dificil",
+    "declare": "¿Cuánto es 5 * 5 + 5 * 5 + 5 * 5?",
+    "response": 70,
+    "maxTime": 10
+  },
+  {
+    "key": 58,
+    "level": "dificil",
+    "declare": "¿Cuánto es 5 + 5 * 5 + 5 * 5 + 5?",
+    "response": 45,
+    "maxTime": 10
+  },
+  {
+    "key": 59,
+    "level": "dificil",
+    "declare": "¿Cuánto es 5 * 5 + 5 * 5 + 5 * 5?",
+    "response": 70,
+    "maxTime": 10
+  },
+  {
+    "key": 60,
+    "level": "dificil",
+    "declare": "¿Cuánto es 5 + 5 * 5 + 5 * 5 + 5?",
+    "response": 45,
+    "maxTime": 10
+  },
+  {
+    "key": 61,
+    "level": "dificil",
+    "declare": "¿Cuánto es 5 * 5 + 5 * 5 + 5 * 5 + 5?",
+    "response": 75,
+    "maxTime": 10
+  },
+  {
+    "key": 62,
+    "level": "dificil",
+    "declare": "¿Cuánto es 5 + 5 * 5 + 5 * 5 + 5 * 5?",
+    "response": 50,
+    "maxTime": 10
+  },
+  {
+    "key": 63,
+    "level": "dificil",
+    "declare": "¿Cuánto es 5 * 5 + 5 * 5 + 5 * 5 + 5?",
+    "response": 75,
+    "maxTime": 10
+  },
+  {
+    "key": 64,
+    "level": "dificil",
+    "declare": "¿Cuánto es 5 + 5 * 5 + 5 * 5 + 5 * 5?",
+    "response": 50,
+    "maxTime": 10
+  },
+  {
+    "key": 65,
+    "level": "dificil",
+    "declare": "¿Cuánto es 5 * 5 + 5 * 5 + 5 * 5 + 5?",
+    "response": 75,
+    "maxTime": 10
+  },
+  {
+    "key": 66,
+    "level": "dificil",
+    "declare": "¿Cuánto es 5 + 5 * 5 + 5 * 5 + 5 * 5?",
+    "response": 50,
+    "maxTime": 10
+  },
+  {
+    "key": 67,
+    "level": "dificil",
+    "declare": "¿Cuánto es 5 * 5 + 5 * 5 + 5 * 5 + 5?",
+    "response": 75,
+    "maxTime": 10
+  },
+  {
+    "key": 68,
+    "level": "dificil",
+    "declare": "¿Cuánto es 5 + 5 * 5 +5?",
+    "response": 30,
+    "maxTime": 10
+  },
+  {
+    "key": 69,
+    "level": "dificil",
+    "declare": "¿Cuánto es 5 * 5 + 5?",
+    "response": 30,
+    "maxTime": 10
+  },
+  {
+    "key": 70,
+    "level": "dificil",
+    "declare": "¿Cuánto es 5 + 5 * 5?",
+    "response": 30,
+    "maxTime": 10
+  },
+  {
+    "key": 71,
+    "level": "dificil",
+    "declare": "¿Cuánto es 5 * 5 + 5?",
+    "response": 30,
+    "maxTime": 10
+  },
+  {
+    "key": 72,
+    "level": "dificil",
+    "declare": "¿Cuánto es 5 + 5 * 5?",
+    "response": 30,
+    "maxTime": 10
+  },
+  {
+    "key": 73,
+    "level": "dificil",
+    "declare": "¿Cuánto es 5 * 5 + 5?",
+    "response": 30,
+    "maxTime": 10
+  },
+  {
+    "key": 74,
+    "level": "dificil",
+    "declare": "¿Cuánto es 5 + 5 * 5?",
+    "response": 30,
+    "maxTime": 10
+  },
+  {
+    "key": 75,
+    "level": "dificil",
+    "declare": "¿Cuánto es 5 * 5 + 5?",
+    "response": 30,
+    "maxTime": 10
+  },
+  {
+    "key": 76,
+    "level": "dificil",
+    "declare": "¿Cuánto es 5 + 5 * 5?",
+    "response": 30,
+    "maxTime": 10
+  },
+  {
+    "key": 77,
+    "level": "dificil",
+    "declare": "¿Cuánto es 5 * 5 + 5?",
+    "response": 30,
+    "maxTime": 10
+  },
+  {
+    "key": 78,
+    "level": "dificil",
+    "declare": "¿Cuánto es 5 + 5 * 5?",
+    "response": 30,
+    "maxTime": 10
+  },
+  {
+    "key": 79,
+    "level": "dificil",
+    "declare": "¿Cuánto es 5 * 5 + 5?",
+    "response": 30,
+    "maxTime": 10
+  },
+  {
+    "key": 80,
+    "level": "dificil",
+    "declare": "¿Cuánto es 5 + 5 * 5?",
+    "response": 30,
+    "maxTime": 10
+  },
+  {
+    "key": 81,
+    "level": "dificil",
+    "declare": "¿Cuánto es 5 * 5 + 5?",
+    "response": 30,
+    "maxTime": 10
+  },
+  {
+    "key": 82,
+    "level": "dificil",
+    "declare": "¿Cuánto es 5 + 5 * 5?",
+    "response": 30,
+    "maxTime": 10
+  },
+  {
+    "key": 83,
+    "level": "dificil",
+    "declare": "¿Cuánto es 5 * 5 + 5?",
+    "response": 30,
+    "maxTime": 10
+  },
+  {
+    "key": 84,
+    "level": "dificil",
+    "declare": "¿Cuánto es 5 + 5 * 5?",
+    "response": 30,
+    "maxTime": 10
+  },
+  {
+    "key": 85,
+    "level": "dificil",
+    "declare": "¿Cuánto es 5 * 5 + 5?",
+    "response": 30,
+    "maxTime": 10
+  }
+]

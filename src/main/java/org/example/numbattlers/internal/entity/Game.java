@@ -4,14 +4,14 @@ import java.util.List;
 
 public class Game {
     private List<Player> players;
-    private List<Ask> asks;
+    private List<Question> questions;
     private String difficulty;
     private int time;
     private int score;
 
-    public Game(List<Player> players, List<Ask> asks, String difficulty, int time, int score) {
+    public Game(List<Player> players, List<Question> questions, String difficulty, int time, int score) {
         this.players = players;
-        this.asks = asks;
+        this.questions = questions;
         this.difficulty = difficulty;
         this.time = time;
         this.score = score;
@@ -25,8 +25,8 @@ public class Game {
         this.players = players;
     }
 
-    public List<Ask> getAsks() {
-        return asks;
+    public List<Question> getAsks() {
+        return questions;
     }
 
 }

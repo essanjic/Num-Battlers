@@ -10,6 +10,7 @@ module org.example.numbattlers {
     requires org.kordamp.bootstrapfx.core;
     requires eu.hansolo.tilesfx;
     requires com.almasb.fxgl.all;
+    requires com.google.gson;
 
     opens org.example.numbattlers to javafx.fxml;
     exports org.example.numbattlers;
