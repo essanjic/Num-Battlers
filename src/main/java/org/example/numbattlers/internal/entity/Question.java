@@ -5,14 +5,19 @@ package org.example.numbattlers.internal.entity;
  */
 public class Question {
     /** Lines 8 - 13 are the attributes of the Question class. */
+
+    private int key;
     private String declare;
 
     private String response;
 
     private String level;
+
     private int maxTime;
+
     /** Lines 15 - 20 are the constructor of the Question class. */
-    public Question(String declare, String response, String level, int maxTime) {
+    public Question(int key, String declare, String response, String level, int maxTime) {
+        this.key = key;
         this.declare = declare;
         this.response = response;
         this.level = level;
@@ -26,6 +31,10 @@ public class Question {
   */
     public String getDeclare() {
         return declare;
+    }
+
+    public int getKey() {
+        return key;
     }
 
     public void setDeclare(String declare) {

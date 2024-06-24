@@ -1,24 +1,35 @@
 package org.example.numbattlers.internal.service;
-
 import org.example.numbattlers.internal.entity.Machine;
+import org.example.numbattlers.internal.entity.Player;
 
-public class MachineService{
+import java.util.Random;
 
-    private static Machine machine = new Machine("Máquina", 0, 0);
-    public static void GetMachine(int difficulty) {
+public class MachineService {
+    private QuestionService questionService;
 
-        if (difficulty != 1 && difficulty != 2) {
-            throw new IllegalArgumentException("Número inválido de dificultad, debe ser 1 o 2.");
-        }
-        if (difficulty == 1) {
-            machine.setDifficulty("fácil");
-        } else {
-            machine.setDifficulty("difícil");
-        }
+    public MachineService(QuestionService questionService) {
+        this.questionService = questionService;
     }
 
-}
+    public void machinePlay(Machine machine, String level) {
+        Random random = new Random();
+        for (int i = 0; i < 10; i++) {
+            String question = questionService.GetRandomQuestion(level);
+            System.out.println(question);
+            long responseTime = 0;
+            try {
+                responseTime = random.nextInt(4) + 6;
+                Thread.sleep(responseTime * 1000);
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
 
+            if (responseTime < questionService.getCurrentQuestion().getMaxTime()) {
+                machine.setScore((int) (machine.getScore() + 10 + (questionService.getCurrentQuestion().getMaxTime() - responseTime)));
+            }
+        }
+    }
+    }
 
 
 
