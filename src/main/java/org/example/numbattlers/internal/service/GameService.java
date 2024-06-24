@@ -1,6 +1,8 @@
 package org.example.numbattlers.internal.service;
 
 import java.util.Scanner;
+
+import com.almasb.fxgl.quest.Quest;
 import org.example.numbattlers.internal.entity.Machine;
 import org.example.numbattlers.internal.entity.Player;
 import java.util.InputMismatchException;
@@ -12,6 +14,7 @@ public class GameService {
     private Player singlePlayer;
     private Player playerOne;
     private Player playerTwo;
+    private static final String QUESTION_SERVICE_REPO = "src/main/java/org/example/numbattlers/internal/repository/seeders.json";
 
     public void displayMenu() {
         System.out.println("1. Iniciar juego");
@@ -45,8 +48,8 @@ public class GameService {
         } while (choice != 2);
     }
     public void playGame(Scanner scanner) {
-
-
+        QuestionService questionService = new QuestionService(QUESTION_SERVICE_REPO);
+        System.out.println("¡Bienvenido a NumBattlers!");
         System.out.println("Ingrese el número de jugadores (1 o 2):");
         Scanner numberPlayers = new Scanner(System.in);
         int numPlayers = numberPlayers.nextInt();
@@ -98,7 +101,6 @@ public class GameService {
         }
     }
     private void displayScore() {
-        // Aquí va el código para mostrar el marcador y felicitar al ganador
         if (singlePlayer != null) {
             if (singlePlayer.getScore() > machine.getScore()) {
                 System.out.println("¡Felicidades " + singlePlayer.getName() + ", has ganado el juego!\n Tu puntaje es de: " + singlePlayer.getScore() + " puntos."

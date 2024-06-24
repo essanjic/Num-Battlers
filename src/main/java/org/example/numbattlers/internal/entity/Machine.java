@@ -6,7 +6,6 @@ package org.example.numbattlers.internal.entity;
  * Is possible create a new Methods in this class.
  */
 public class Machine extends Player {
-    private String difficulty;
 
     /**
      * Lines 14 - 18 are the constructor of the Player class.
@@ -20,13 +19,8 @@ public class Machine extends Player {
         super(name, score, time);
     }
 
-    public String getDifficulty() {
-        return difficulty;
-    }
 
-    public void setDifficulty(String difficulty) {
-        this.difficulty = difficulty;
-    }
+
 
 
 }

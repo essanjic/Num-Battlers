@@ -6,9 +6,11 @@ import java.util.Random;
 
 public class MachineService {
     private QuestionService questionService;
+    private Sleeper sleeper;
 
-    public MachineService(QuestionService questionService) {
+    public MachineService(QuestionService questionService, Sleeper sleeper) {
         this.questionService = questionService;
+        this.sleeper = sleeper;
     }
 
     public void machinePlay(Machine machine, String level) {
@@ -19,7 +21,7 @@ public class MachineService {
             long responseTime = 0;
             try {
                 responseTime = random.nextInt(4) + 6;
-                Thread.sleep(responseTime * 1000);
+                sleeper.sleep(responseTime * 1000);
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }

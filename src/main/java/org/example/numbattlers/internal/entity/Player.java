@@ -42,9 +42,4 @@ public class Player {
         return time;
     }
 
-    public void setTime(int time) {
-        this.time = time;
-    }
-
-
 }

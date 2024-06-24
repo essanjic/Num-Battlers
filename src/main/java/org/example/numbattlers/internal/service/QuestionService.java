@@ -14,9 +14,15 @@ import java.util.stream.Collectors;
 
 public class QuestionService {
     private List<Question> questions;
+
     private List<Question> usedQuestions = new ArrayList<>();
     private Question currentQuestion;
 
+    public QuestionService(List<Question> questions, List<Question> usedQuestions, Question currentQuestion) {
+        this.questions = questions;
+        this.usedQuestions = usedQuestions;
+        this.currentQuestion = currentQuestion;
+    }
     public Question getCurrentQuestion() {
         return currentQuestion;
     }
@@ -34,7 +40,6 @@ public class QuestionService {
 
     public String GetRandomQuestion(String level){
         Random random = new Random();
-        Question question = null;
         int key;
 
         if (level.equals("fácil")) {
@@ -49,7 +54,7 @@ public class QuestionService {
                 .collect(Collectors.toList());
 
         if (!availableQuestions.isEmpty()) {
-            currentQuestion = availableQuestions.get(random.nextInt(availableQuestions.size())); // set currentQuestion
+            currentQuestion = availableQuestions.get(random.nextInt(availableQuestions.size()));
             usedQuestions.add(currentQuestion);
         }
 
