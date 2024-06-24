@@ -281,320 +281,321 @@
   },
 
 
-
-  {
-    "key": 41,
-    "level": "dificil",
-    "declare": "¿Cuánto es 5 * 5 + 5 * 5 + 5?",
-    "response": "12",
-    "maxTime": 10
-  },
-  {
-    "key": 42,
-    "level": "dificil",
-    "declare": "¿Cuánto es 5 + 5 * 5 + 5 * 5?",
-    "response": "12",
-    "maxTime": 10
-  },
-  {
-    "key": 43,
-    "level": "dificil",
-    "declare": "¿Cuánto es 5 * 5 + 5 * 5 + 5?",
-    "response": "12",
-    "maxTime": 10
-  },
-  {
-    "key": 44,
-    "level": "dificil",
-    "declare": "¿Cuánto es 5 + 5 * 5 + 5 * 5?",
-    "response": "12",
-    "maxTime": 10
-  },
-  {
-    "key": 45,
-    "level": "dificil",
-    "declare": "¿Cuánto es 5 * 5 + 5 * 5 + 5?",
-    "response": "12",
-    "maxTime": 10
-  },
-  {
-    "key": 46,
-    "level": "dificil",
-    "declare": "¿Cuánto es 5 + 5 * 5 + 5 * 5?",
-    "response": "12",
-    "maxTime": 10
-  },
-  {
-    "key": 47,
-    "level": "dificil",
-    "declare": "¿Cuánto es 5 * 5 + 5 * 5 + 5?",
-    "response": "12",
-    "maxTime": 10
-  },
-  {
-    "key": 48,
-    "level": "dificil",
-    "declare": "¿Cuánto es 5 + 5 * 5 + 5 * 5?",
-    "response": "12",
-    "maxTime": 10
-  },
-  {
-    "key": 49,
-    "level": "dificil",
-    "declare": "¿Cuánto es 5 * 5 + 5 * 5 + 5?",
-    "response": "12",
-    "maxTime": 10
-  },
-  {
-    "key": 50,
-    "level": "dificil",
-    "declare": "¿Cuánto es 5 + 5 * 5 + 5 * 5?",
-    "response": "12",
-    "maxTime": 10
-  },
-  {
-    "key": 51,
-    "level": "dificil",
-    "declare": "¿Cuánto es 5 * 5 + 5 * 5 + 5 * 5?",
-    "response": "12",
-    "maxTime": 10
-  },
-  {
-    "key": 52,
-    "level": "dificil",
-    "declare": "¿Cuánto es 5 + 5 * 5 + 5 * 5 + 5?",
-    "response": "12",
-    "maxTime": 10
-  },
-  {
-    "key": 53,
-    "level": "dificil",
-    "declare": "¿Cuánto es 5 * 5 + 5 * 5 + 5 * 5?",
-    "response": "12",
-    "maxTime": 10
-  },
-  {
-    "key": 54,
-    "level": "dificil",
-    "declare": "¿Cuánto es 5 + 5 * 5 + 5 * 5 + 5?",
-    "response": "12",
-    "maxTime": 10
-  },
-  {
-    "key": 55,
-    "level": "dificil",
-    "declare": "¿Cuánto es 5 * 5 + 5 * 5 + 5 * 5?",
-    "response": "12",
-    "maxTime": 10
-  },
-  {
-    "key": 56,
-    "level": "dificil",
-    "declare": "¿Cuánto es 5 + 5 * 5 + 5 * 5 + 5?",
-    "response": "12",
-    "maxTime": 10
-  },
-  {
-    "key": 57,
-    "level": "dificil",
-    "declare": "¿Cuánto es 5 * 5 + 5 * 5 + 5 * 5?",
-    "response": "12",
-    "maxTime": 10
-  },
-  {
-    "key": 58,
-    "level": "dificil",
-    "declare": "¿Cuánto es 5 + 5 * 5 + 5 * 5 + 5?",
-    "response": "12",
-    "maxTime": 10
-  },
-  {
-    "key": 59,
-    "level": "dificil",
-    "declare": "¿Cuánto es 5 * 5 + 5 * 5 + 5 * 5?",
-    "response": "12",
-    "maxTime": 10
-  },
-  {
-    "key": 60,
-    "level": "dificil",
-    "declare": "¿Cuánto es 5 + 5 * 5 + 5 * 5 + 5?",
-    "response": "12",
-    "maxTime": 10
-  },
-  {
-    "key": 61,
-    "level": "dificil",
-    "declare": "¿Cuánto es 5 * 5 + 5 * 5 + 5 * 5 + 5?",
-    "response": "12",
-    "maxTime": 10
-  },
-  {
-    "key": 62,
-    "level": "dificil",
-    "declare": "¿Cuánto es 5 + 5 * 5 + 5 * 5 + 5 * 5?",
-    "response": "12",
-    "maxTime": 10
-  },
-  {
-    "key": 63,
-    "level": "dificil",
-    "declare": "¿Cuánto es 5 * 5 + 5 * 5 + 5 * 5 + 5?",
-    "response": "12",
-    "maxTime": 10
-  },
-  {
-    "key": 64,
-    "level": "dificil",
-    "declare": "¿Cuánto es 5 + 5 * 5 + 5 * 5 + 5 * 5?",
-    "response": "12",
-    "maxTime": 10
-  },
-  {
-    "key": 65,
-    "level": "dificil",
-    "declare": "¿Cuánto es 5 * 5 + 5 * 5 + 5 * 5 + 5?",
-    "response": "12",
-    "maxTime": 10
-  },
-  {
-    "key": 66,
-    "level": "dificil",
-    "declare": "¿Cuánto es 5 + 5 * 5 + 5 * 5 + 5 * 5?",
-    "response": "12",
-    "maxTime": 10
-  },
-  {
-    "key": 67,
-    "level": "dificil",
-    "declare": "¿Cuánto es 5 * 5 + 5 * 5 + 5 * 5 + 5?",
-    "response": "12",
-    "maxTime": 10
-  },
-  {
-    "key": 68,
-    "level": "dificil",
-    "declare": "¿Cuánto es 5 + 5 * 5 +5?",
-    "response": "12",
-    "maxTime": 10
-  },
-  {
-    "key": 69,
-    "level": "dificil",
-    "declare": "¿Cuánto es 5 * 5 + 5?",
-    "response": "12",
-    "maxTime": 10
-  },
-  {
-    "key": 70,
-    "level": "dificil",
-    "declare": "¿Cuánto es 5 + 5 * 5?",
-    "response": "12",
-    "maxTime": 10
-  },
-  {
-    "key": 71,
-    "level": "dificil",
-    "declare": "¿Cuánto es 5 * 5 + 5?",
-    "response": "12",
-    "maxTime": 10
-  },
-  {
-    "key": 72,
-    "level": "dificil",
-    "declare": "¿Cuánto es 5 + 5 * 5?",
-    "response": "12",
-    "maxTime": 10
-  },
-  {
-    "key": 73,
-    "level": "dificil",
-    "declare": "¿Cuánto es 5 * 5 + 5?",
-    "response": "12",
-    "maxTime": 10
-  },
-  {
-    "key": 74,
-    "level": "dificil",
-    "declare": "¿Cuánto es 5 + 5 * 5?",
-    "response": "12",
-    "maxTime": 10
-  },
-  {
-    "key": 75,
-    "level": "dificil",
-    "declare": "¿Cuánto es 5 * 5 + 5?",
-    "response": "12",
-    "maxTime": 10
-  },
-  {
-    "key": 76,
-    "level": "dificil",
-    "declare": "¿Cuánto es 5 + 5 * 5?",
-    "response": "12",
-    "maxTime": 10
-  },
-  {
-    "key": 77,
-    "level": "dificil",
-    "declare": "¿Cuánto es 5 * 5 + 5?",
-    "response": "12",
-    "maxTime": 10
-  },
-  {
-    "key": 78,
-    "level": "dificil",
-    "declare": "¿Cuánto es 5 + 5 * 5?",
-    "response": "12",
-    "maxTime": 10
-  },
-  {
-    "key": 79,
-    "level": "dificil",
-    "declare": "¿Cuánto es 5 * 5 + 5?",
-    "response": "12",
-    "maxTime": 10
-  },
-  {
-    "key": 80,
-    "level": "dificil",
-    "declare": "¿Cuánto es 5 + 5 * 5?",
-    "response": "12",
-    "maxTime": 10
-  },
-  {
-    "key": 81,
-    "level": "dificil",
-    "declare": "¿Cuánto es 5 * 5 + 5?",
-    "response": 30,
-    "maxTime": 10
-  },
-  {
-    "key": 82,
-    "level": "dificil",
-    "declare": "¿Cuánto es 5 + 5 * 5?",
-    "response": "12",
-    "maxTime": 10
-  },
-  {
-    "key": 83,
-    "level": "dificil",
-    "declare": "¿Cuánto es 5 * 5 + 5?",
-    "response": "12",
-    "maxTime": 10
-  },
-  {
-    "key": 84,
-    "level": "dificil",
-    "declare": "¿Cuánto es 5 + 5 * 5?",
-    "response": "12",
-    "maxTime": 10
-  },
-  {
-    "key": 85,
-    "level": "dificil",
-    "declare": "¿Cuánto es 5 * 5 + 5?",
-    "response": "12",
-    "maxTime": 10
-  }
-]
+  
+    {
+      "key": 41,
+      "level": "dificil",
+      "declare": "¿Cuánto es 25 * 4 + 3?",
+      "response": "103",
+      "maxTime": 10
+    },
+    {
+      "key": 42,
+      "level": "dificil",
+      "declare": "¿Cuánto es 8 * 7 + 12?",
+      "response": "68",
+      "maxTime": 10
+    },
+    {
+      "key": 43,
+      "level": "dificil",
+      "declare": "¿Cuánto es 45 / 5 * 4?",
+      "response": "36",
+      "maxTime": 10
+    },
+    {
+      "key": 44,
+      "level": "dificil",
+      "declare": "¿Cuánto es 6 * 6 + 11?",
+      "response": "47",
+      "maxTime": 10
+    },
+    {
+      "key": 45,
+      "level": "dificil",
+      "declare": "¿Cuánto es 12 * 6 / 2?",
+      "response": "36",
+      "maxTime": 10
+    },
+    {
+      "key": 46,
+      "level": "dificil",
+      "declare": "¿Cuánto es 7 * 9 + 5?",
+      "response": "68",
+      "maxTime": 10
+    },
+    {
+      "key": 47,
+      "level": "dificil",
+      "declare": "¿Cuánto es 14 * 3 + 8?",
+      "response": "50",
+      "maxTime": 10
+    },
+    {
+      "key": 48,
+      "level": "dificil",
+      "declare": "¿Cuánto es 3 * 3 * 3?",
+      "response": "27",
+      "maxTime": 10
+    },
+    {
+      "key": 49,
+      "level": "dificil",
+      "declare": "¿Cuánto es 8 * 8 - 10?",
+      "response": "54",
+      "maxTime": 10
+    },
+    {
+      "key": 50,
+      "level": "dificil",
+      "declare": "¿Cuánto es 15 * 4 / 2?",
+      "response": "30",
+      "maxTime": 10
+    },
+    {
+      "key": 51,
+      "level": "dificil",
+      "declare": "¿Cuánto es 18 + 24 / 8?",
+      "response": "21",
+      "maxTime": 10
+    },
+    {
+      "key": 52,
+      "level": "dificil",
+      "declare": "¿Cuánto es 17 - 4 * 3?",
+      "response": "5",
+      "maxTime": 10
+    },
+    {
+      "key": 53,
+      "level": "dificil",
+      "declare": "¿Cuánto es 5^3?",
+      "response": "125",
+      "maxTime": 10
+    },
+    {
+      "key": 54,
+      "level": "dificil",
+      "declare": "¿Cuánto es 2^4 * 3?",
+      "response": "48",
+      "maxTime": 10
+    },
+    {
+      "key": 55,
+      "level": "dificil",
+      "declare": "¿Cuánto es 20 * 3 - 15?",
+      "response": "45",
+      "maxTime": 10
+    },
+    {
+      "key": 56,
+      "level": "dificil",
+      "declare": "¿Cuánto es 50 / 5 + 7 * 2?",
+      "response": "24",
+      "maxTime": 10
+    },
+    {
+      "key": 57,
+      "level": "dificil",
+      "declare": "¿Cuánto es 9 * 9 - 8?",
+      "response": "73",
+      "maxTime": 10
+    },
+    {
+      "key": 58,
+      "level": "dificil",
+      "declare": "¿Cuánto es 40 / 4 * 2?",
+      "response": "20",
+      "maxTime": 10
+    },
+    {
+      "key": 59,
+      "level": "dificil",
+      "declare": "¿Cuánto es 15 * 3 - 7?",
+      "response": "38",
+      "maxTime": 10
+    },
+    {
+      "key": 60,
+      "level": "dificil",
+      "declare": "¿Cuánto es 100 / 4 + 13?",
+      "response": "38",
+      "maxTime": 10
+    },
+    {
+      "key": 61,
+      "level": "dificil",
+      "declare": "¿Cuánto es 6^2 - 5?",
+      "response": "31",
+      "maxTime": 10
+    },
+    {
+      "key": 62,
+      "level": "dificil",
+      "declare": "¿Cuánto es 9 + 12 * 2?",
+      "response": "33",
+      "maxTime": 10
+    },
+    {
+      "key": 63,
+      "level": "dificil",
+      "declare": "¿Cuánto es 8 * 5 + 14?",
+      "response": "54",
+      "maxTime": 10
+    },
+    {
+      "key": 64,
+      "level": "dificil",
+      "declare": "¿Cuánto es 13 * 4 - 7?",
+      "response": "45",
+      "maxTime": 10
+    },
+    {
+      "key": 65,
+      "level": "dificil",
+      "declare": "¿Cuánto es 10^2 / 5?",
+      "response": "20",
+      "maxTime": 10
+    },
+    {
+      "key": 66,
+      "level": "dificil",
+      "declare": "¿Cuánto es 21 / 3 * 4?",
+      "response": "28",
+      "maxTime": 10
+    },
+    {
+      "key": 67,
+      "level": "dificil",
+      "declare": "¿Cuánto es 30 - 8 * 3?",
+      "response": "6",
+      "maxTime": 10
+    },
+    {
+      "key": 68,
+      "level": "dificil",
+      "declare": "¿Cuánto es 50 / 2 + 9?",
+      "response": "34",
+      "maxTime": 10
+    },
+    {
+      "key": 69,
+      "level": "dificil",
+      "declare": "¿Cuánto es 3 * 3 * 5?",
+      "response": "45",
+      "maxTime": 10
+    },
+    {
+      "key": 70,
+      "level": "dificil",
+      "declare": "¿Cuánto es 4^3 - 16?",
+      "response": "48",
+      "maxTime": 10
+    },
+    {
+      "key": 71,
+      "level": "dificil",
+      "declare": "¿Cuánto es 7 * 7 - 15?",
+      "response": "34",
+      "maxTime": 10
+    },
+    {
+      "key": 72,
+      "level": "dificil",
+      "declare": "¿Cuánto es 16 / 2 * 5?",
+      "response": "40",
+      "maxTime": 10
+    },
+    {
+      "key": 73,
+      "level": "dificil",
+      "declare": "¿Cuánto es 8 * 6 - 4?",
+      "response": "44",
+      "maxTime": 10
+    },
+    {
+      "key": 74,
+      "level": "dificil",
+      "declare": "¿Cuánto es 18 / 3 + 7?",
+      "response": "13",
+      "maxTime": 10
+    },
+    {
+      "key": 75,
+      "level": "dificil",
+      "declare": "¿Cuánto es 20 + 8 / 4?",
+      "response": "22",
+      "maxTime": 10
+    },
+    {
+      "key": 76,
+      "level": "dificil",
+      "declare": "¿Cuánto es 24 / 6 * 5?",
+      "response": "20",
+      "maxTime": 10
+    },
+    {
+      "key": 77,
+      "level": "dificil",
+      "declare": "¿Cuánto es 7^2 - 10?",
+      "response": "39",
+      "maxTime": 10
+    },
+    {
+      "key": 78,
+      "level": "dificil",
+      "declare": "¿Cuánto es 15 * 4 / 3?",
+      "response": "20",
+      "maxTime": 10
+    },
+    {
+      "key": 79,
+      "level": "dificil",
+      "declare": "¿Cuánto es 36 / 6 + 4?",
+      "response": "10",
+      "maxTime": 10
+    },
+    {
+      "key": 80,
+      "level": "dificil",
+      "declare": "¿Cuánto es 9 * 5 + 7?",
+      "response": "52",
+      "maxTime": 10
+    },
+    {
+      "key": 81,
+      "level": "dificil",
+      "declare": "¿Cuánto es 13 * 3 - 8?",
+      "response": "31",
+      "maxTime": 10
+    },
+    {
+      "key": 82,
+      "level": "dificil",
+      "declare": "¿Cuánto es 25 * 2 + 9?",
+      "response": "59",
+      "maxTime": 10
+    },
+    {
+      "key": 83,
+      "level": "dificil",
+      "declare": "¿Cuánto es 28 / 4 * 3?",
+      "response": "21",
+      "maxTime": 10
+    },
+    {
+      "key": 84,
+      "level": "dificil",
+      "declare": "¿Cuánto es 11 * 5 - 6?",
+      "response": "49",
+      "maxTime": 10
+    },
+    {
+      "key": 85,
+      "level": "dificil",
+      "declare": "¿Cuánto es 32 / 8 + 7?",
+      "response": "11",
+      "maxTime": 10
+    }
+  ]
+  
