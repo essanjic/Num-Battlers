@@ -57,7 +57,7 @@ public class GameService {
             System.out.println("Ingrese el nombre del jugador 1:");
             Scanner nameSinglePlayerIn = new Scanner(System.in);
             String nameSinglePlayer = String.valueOf(nameSinglePlayerIn.nextLine());
-            Player singlePlayer = new Player(nameSinglePlayer, 0, 0);;
+            Player singlePlayer = new Player(nameSinglePlayer, 0, 0);
             Scanner scanner2 = new Scanner(System.in);
             System.out.println("Ingrese la dificultad (1. Fácil o 2 Difícil):");
             int difficulty = scanner2.nextInt();
