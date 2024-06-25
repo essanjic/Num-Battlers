@@ -1,5 +1,6 @@
 package org.example.numbattlers.internal.entity;
 
+import org.example.numbattlers.internal.entity.Player;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;

@@ -1,5 +1,6 @@
 package org.example.numbattlers.internal.service;
 import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
 import org.example.numbattlers.internal.entity.Player;
 import org.example.numbattlers.internal.entity.Question;
 import com.google.gson.reflect.TypeToken;
@@ -16,30 +17,32 @@ public class QuestionService {
     private List<Question> questions;
 
     private List<Question> usedQuestions = new ArrayList<>();
-    private Question currentQuestion;
 
-    public QuestionService(List<Question> questions, List<Question> usedQuestions, Question currentQuestion) {
+    private Question currentQuestion;
+    private Random random;
+    public QuestionService(List<Question> questions, List<Question> usedQuestions, Question currentQuestion, Random random) {
         this.questions = questions;
         this.usedQuestions = usedQuestions;
         this.currentQuestion = currentQuestion;
+        this.random = random;
     }
+
     public Question getCurrentQuestion() {
         return currentQuestion;
     }
 
-    public QuestionService(String filePath) {
+    public QuestionService(String filePath) throws IOException {
         try {
-            Gson gson = new Gson();
+            Gson gson = new GsonBuilder().excludeFieldsWithoutExposeAnnotation().create();
             Reader reader = Files.newBufferedReader(Paths.get(filePath));
             questions = gson.fromJson(reader, new TypeToken<List<Question>>() {}.getType());
             reader.close();
         } catch (IOException e) {
-            e.printStackTrace();
+            throw e;
         }
     }
 
     public String GetRandomQuestion(String level){
-        Random random = new Random();
         int key;
 
         if (level.equals("fácil")) {
@@ -51,12 +54,13 @@ public class QuestionService {
 
         List<Question> availableQuestions = questions.stream()
                 .filter(q -> !usedQuestions.contains(q) && q.getKey() == key)
-                .collect(Collectors.toList());
+                .toList();
 
         if (!availableQuestions.isEmpty()) {
             currentQuestion = availableQuestions.get(random.nextInt(availableQuestions.size()));
             usedQuestions.add(currentQuestion);
         }
+
 
         String declare = null;
         if (currentQuestion != null) {

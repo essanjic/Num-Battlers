@@ -2,6 +2,10 @@ package org.example.numbattlers.internal.service;
 
 import org.example.numbattlers.internal.entity.Machine;
 import org.example.numbattlers.internal.entity.Question;
+import org.example.numbattlers.internal.service.MachineService;
+import org.example.numbattlers.internal.service.QuestionService;
+import org.example.numbattlers.internal.service.Sleeper;
+import org.example.numbattlers.internal.service.ThreadSleeper;
 import org.junit.jupiter.api.Test;
 import org.mockito.Mockito;
 

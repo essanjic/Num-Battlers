@@ -1,5 +1,7 @@
 package org.example.numbattlers.internal.entity;
 
+import com.google.gson.annotations.Expose;
+
 /** This class is used by Game to ask the player for a response to a question.
  * Implements some attributes of the question.
  */
@@ -7,6 +9,7 @@ public class Question {
     /** Lines 8 - 13 are the attributes of the Question class. */
 
     private int key;
+
     private String declare;
 
     private String response;

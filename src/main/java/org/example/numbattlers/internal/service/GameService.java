@@ -1,5 +1,6 @@
 package org.example.numbattlers.internal.service;
 
+import java.io.IOException;
 import java.util.Scanner;
 
 import com.almasb.fxgl.quest.Quest;
@@ -17,8 +18,7 @@ public class GameService {
     private static final String QUESTION_SERVICE_REPO = "src/main/java/org/example/numbattlers/internal/repository/seeders.json";
 
     public void displayMenu() {
-        System.out.println("1. Iniciar juego");
-        System.out.println("2. Salir");
+        System.out.println("1. Iniciar juego\n2. Salir");
     }
 
     public void startGame() {
@@ -44,10 +44,12 @@ public class GameService {
             } catch (InputMismatchException e) {
                 System.out.println("Entrada inválida. Por favor, ingrese un número.");
                 scanner.next();
+            } catch (IOException e) {
+                throw new RuntimeException(e);
             }
         } while (choice != 2);
     }
-    public void playGame(Scanner scanner) {
+    public void playGame(Scanner scanner) throws IOException {
         QuestionService questionService = new QuestionService(QUESTION_SERVICE_REPO);
         System.out.println("¡Bienvenido a NumBattlers!");
         System.out.println("Ingrese el número de jugadores (1 o 2):");
